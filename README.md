@@ -1,7 +1,7 @@
 # 💫 About Me:
 Junior Web Developer<br>
 Recent IT graduate - Kirinyaga University<br>
-Currently learning Software Engineering, PLP Africa<br>
+Awaiting graduation - Software Engineering, PLP Africa<br>
 Currently learning Web Development, The Odin Project
 
 
