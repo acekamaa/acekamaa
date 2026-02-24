@@ -1,7 +1,7 @@
 # 💫 About Me:
-Junior Web Developer<br>
+Backend Web Developer<br>
 Recent IT graduate - Kirinyaga University<br>
-Software Engineering, PLP Africa<br>
+Software Engineering graduate, PLP Africa<br>
 Currently learning Web Development, The Odin Project
 
 
